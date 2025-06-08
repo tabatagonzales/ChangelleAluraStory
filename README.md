@@ -75,6 +75,10 @@ Aplicar conceitos de análise e visualização de dados para identificar, com ba
 ### Vendas por Categoria - Loja 4
 ![Vendas por categoria loja 4](imagens/vendas_por_categoria_loja_4.png)
 
+## 📽️ Apresentação
+
+[Clique aqui para ver a apresentação do projeto](Relatorio.pdf)
+
 > **Com base nas análises quantitativas e visuais, a Loja 4 foi recomendada para venda por apresentar o menor desempenho financeiro e operacional entre as quatro unidades analisadas.**
 
 ---
