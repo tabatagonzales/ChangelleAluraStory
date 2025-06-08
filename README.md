@@ -49,7 +49,7 @@ Aplicar conceitos de análise e visualização de dados para identificar, com ba
 ## 🖼️ Exemplos de Gráficos
 
 ### Faturamento Total
-![Faturamento total](imagens/faturamento_total.png)
+![Faturamento total](imagens/Faturamento total.png)
 
 ### Frete Médio por Loja
 ![Frete médio por loja](imagens/frete_medio_por_loja.png)
